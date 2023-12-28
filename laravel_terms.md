@@ -1,5 +1,5 @@
 # Laravel Toster
 https://github.com/yoeunes/toastr
-...Bash
+```Bash
 npm run dev
-...
+```
