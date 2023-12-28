@@ -1,5 +1,5 @@
 # Laravel Toster
-https://github.com/yoeunes/toastr
+[![toastr](https://github.com/yoeunes/toastr)]
 ```Bash
 npm run dev
 ```
